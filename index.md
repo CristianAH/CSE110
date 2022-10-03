@@ -24,7 +24,6 @@ int main()
 
 This is my dog Princess, a chihuahua mix. ![This is an image](Dog.jpg)
 
-
 Clicking [this link](#who-am-i) takes you back to _Who am I_ section.
 
 ### Programming Knowledge
